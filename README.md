@@ -1,7 +1,5 @@
 
 
-Dinokojt7/README.md
-
 **Flutter connoisseur**
 
 
